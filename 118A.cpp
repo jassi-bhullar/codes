@@ -23,6 +23,6 @@ int main() {
 	}
 
 	cout << w;
-
+// silent
 	return 0;
 }
